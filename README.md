@@ -67,6 +67,14 @@ This project performs sentiment analysis on textual data (tweets) using Natural 
   * "I love this game!" → Positive
   * "Worst experience ever" → Negative
   * "Just okay." → Neutral
+Output:
+<img width="558" height="393" alt="Image" src="https://github.com/user-attachments/assets/0db39e60-7cc0-49a4-b810-6bf51abcceb1" />
+
+<img width="563" height="240" alt="Image" src="https://github.com/user-attachments/assets/320365dd-6a51-4016-a0be-15145ff40e86" />
+
+<img width="518" height="393" alt="Image" src="https://github.com/user-attachments/assets/50011f19-5323-4167-99b2-4c29a3bb3b36" />
+
+<img width="572" height="68" alt="Image" src="https://github.com/user-attachments/assets/46e3d826-e74c-467a-ae89-a456f818ca54" />
 
 ## ✅ Future Enhancements
 
